@@ -1,0 +1,12 @@
+* {
+  background-color: darkslategray;
+}
+
+#opener {
+  float: right;
+  background-color: blue;
+  color: white;
+  font-style: italic;
+  padding: 30px;
+  border-radius: 30px;
+}
